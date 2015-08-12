@@ -1,0 +1,3 @@
+pageObjects\GoogleSeachPage.class
+setup\Setup.class
+tests\SearchInGoogleTest.class
